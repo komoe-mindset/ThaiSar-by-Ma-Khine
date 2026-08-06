@@ -1,0 +1,6 @@
+{
+  "name": "Thai Language for Myanmar",
+  "description": "All-in-one interactive web portal for Myanmar speakers learning Thai language, featuring Level 1 & 2 units, vocabulary, grammar, audio speech, flashcards, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
